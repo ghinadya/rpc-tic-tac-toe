@@ -1,2 +1,2 @@
 # tic-tac-toe
-This repository is created for SWE-545 Distrubuted System Programming course @Bogazici University 
+This repository is created Distrubuted System Programming course 
